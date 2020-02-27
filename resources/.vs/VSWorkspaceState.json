@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\[essential]",
+    "\\[essential]\\es_extended",
+    "\\[essential]\\es_extended\\client",
+    "\\[essential]\\es_extended\\client\\modules",
+    "\\[essential]\\es_extended\\locales",
+    "\\[essential]\\es_extended\\server",
+    "\\[esx]",
+    "\\[esx]\\esx_shops",
+    "\\[esx]\\esx_shops\\server"
+  ],
+  "SelectedNode": "\\[essential]\\es_extended\\client\\modules\\death.lua",
+  "PreviewInSolutionExplorer": false
+}

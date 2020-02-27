@@ -1,0 +1,25 @@
+Locales['en'] = {
+    ['you_paid'] = 'Du hast ~g~$%s~s~ gezahlt',
+    ['garage'] = 'Garage',
+    ['notif_car_impounded'] = 'Garage: <br /> Dein Auto wurde abgeschleppt',
+    ['status_in_garage'] = '%s: <font color="green">In der Garage</font>',
+    ['status_impounded'] = '%s: <font color="red">Abgeschleppt</font>',
+    ['list_vehicles'] = 'Fahrzeugliste',
+    ['stock_vehicle'] = 'Fahrzeug einparken',
+    ['return_vehicle'] = 'Fahrzeug vom Abschlepphof holen ($%s)',
+    ['reparation'] = 'Dein Auto ist beschädigt',
+    ['reparation_yes'] = 'Repariere hier ($%s)',
+    ['reparation_no'] = 'Nein Danke!',
+    ['reparation_no_notif'] = 'Das Fahrzeug muss in einem Perfekten Zustand sein um es einparken zu können',
+    ['ranger'] = 'Garage: <br /> Dein Fahrzeug wurde in die Garage eingeparkt',
+    ['stockv_not_owned'] = 'Garage: <br /> Das Fahrzeug gehört nicht dir!',
+    ['stockv_not_in_veh'] = 'Garage: <br /> Du musst dich im Fahrzeug befinden um es einparken zu können',
+    ['spawn'] = 'Drücke ~INPUT_PICKUP~ um ein Fahrzeug auszuparken',
+    ['delete'] = 'Drücke  ~INPUT_PICKUP~ um ein Fahrzeug einzuparken',
+    ['pound_action_menu'] = 'Drücke ~INPUT_PICKUP~ um zum Abschlepphof zu gelangen',
+    ['not_enough_money'] = 'Du hast nicht genug Geld',
+    ['impound_list'] = '%s: Zurück',
+    ['impound_yard'] = 'Abschlepphof',
+    ['impound_not_enough_money'] = 'Garage: <br /> Du  hast nicht genug Geld'
+
+}
